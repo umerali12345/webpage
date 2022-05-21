@@ -1,0 +1,14 @@
+h1{ background: blue;
+font-size: 40px; color: indianred;
+}
+h2{
+font-size: 20px;
+color: purple;
+}
+.big{
+font-size: 60px;
+color: blueviolet;
+}
+.uppercase{
+text-transform: uppercase;
+}
